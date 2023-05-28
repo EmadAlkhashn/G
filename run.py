@@ -145,7 +145,7 @@ d = "[#87afff]"
 e = "[#87ff00]"
 R3 = random.choice([a, b, c, d, e])
 
-USN = "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Mobile Safari/537.36 Instagram 272.0.0.16.73 Android (29/10; 408dpi; 1080x1798; SHARP/KDDI; SHV41; JWT; qcom; ja_JP; 450448608)"
+USN = "Instagram 272.0.0.16.73 Android (28/9; 213dpi; 800x1216; Amazon; KFONWI; onyx; mt8168; en_US; 450448590)"
 
 internal,external,success,checkpoint,loop,following,lisensikuni,lisensiku=[],[],[],[],0,[],[],[]
 HARIS, HARIS1, method, ugen, ugen3, ugen2, baru, zx, prox, menudump, uazpepek = {}, {}, [], [], [], [], [], [], [], [], []
